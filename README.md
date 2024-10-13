@@ -1,1 +1,1 @@
-Amazon Data Analyis using Pandas, Seaborn and matplotlib
+Amazon Online Sales Data Analyis using Pandas, Seaborn and matplotlib
